@@ -1,4 +1,4 @@
-![Banner](PFDA-assignments/img/readme_banner.png)
+![Banner](pfda-assignments/img/readme_banner.png)
 
 # Programming for Data Analytics 
 
